@@ -1,0 +1,9 @@
+[1mPython III: Data Science - Pigg A:[0m
+
+Blake,
+This course builds on skills and concepts learned in our previous computer science courses. The topics have challenged you to explore how computing and technology can impact the world, with a unique focus on creative problem solving and real-world applications. As a student, you should know more advanced data structures and object-oriented programming basics. You also learned to communicate with popular APIs including Twitter and Google in order to “grab” data and to organize the data and display it. 
+
+A learning outcome at which you show strength is understanding and being able to use a variety of data types, control structures, and algorithmic problem-solving techniques in your programming. You also always think out-of-the-box in class. 
+A learning outcome at which you could improve in the future is working to designing, documenting, implementing, and testing solutions to programming problems. 
+
+None Your final grade in this class is 95%, which ends up being the letter grade A. As you think about and plan for courses next year, I hope you consider some of the Computer Science electives like Algorithms and Machine Learning!
